@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://namdevdhore.github.io/csb-3k3gwj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://namdevdhore.github.io/csb-3k3gwj/static/js/main.a1ab823f.chunk.js",
+    "main.js.map": "https://namdevdhore.github.io/csb-3k3gwj/static/js/main.a1ab823f.chunk.js.map",
+    "runtime-main.js": "https://namdevdhore.github.io/csb-3k3gwj/static/js/runtime-main.1d8e30f7.js",
+    "runtime-main.js.map": "https://namdevdhore.github.io/csb-3k3gwj/static/js/runtime-main.1d8e30f7.js.map",
+    "static/js/2.e6dfed3d.chunk.js": "https://namdevdhore.github.io/csb-3k3gwj/static/js/2.e6dfed3d.chunk.js",
+    "static/js/2.e6dfed3d.chunk.js.map": "https://namdevdhore.github.io/csb-3k3gwj/static/js/2.e6dfed3d.chunk.js.map",
+    "index.html": "https://namdevdhore.github.io/csb-3k3gwj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://namdevdhore.github.io/csb-3k3gwj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e6dfed3d.chunk.js.LICENSE.txt": "https://namdevdhore.github.io/csb-3k3gwj/static/js/2.e6dfed3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d8e30f7.js",
+    "static/js/2.e6dfed3d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a1ab823f.chunk.js"
+  ]
+}
